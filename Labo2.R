@@ -1,7 +1,7 @@
 
 #Labo2 3.a
-vec1 <- c(2,1,1,3,2,1,0)
-vec2 <- c(3,8,2,2,0,0,0)
+> vec1 <- c(2,1,1,3,2,1,0)
+> vec2 <- c(3,8,2,2,0,0,0)
 
 >if(!is.na(vec2[3])){ cat("Imprime el Resultado!")}
 
